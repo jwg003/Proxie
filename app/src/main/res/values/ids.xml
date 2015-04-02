@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Map Setting ids -->
+    <item type="id" name="mapcheckboxdisplayproxie_id"/>
+    <item type="id" name="mapcheckboxdisplaymessageloc_id"/>
+
+    <!-- Compose Message Activity ids -->
+    <item type="id" name="userNameloginfieldid"/>
+    <item type="id" name="passwordloginfieldid"/>
+    <item type="id" name="loginactivityheadertitleid"/>
+    <item type="id" name="loginactivtybuttonid"/>
+    <item type="id" name="linearlayoutxml"/>
+
+    <!-- MessageForum activity ids -->
+    <item type="id" name="mssgForumFilterButton"/>
+    <item type="id" name="mssgForumComposeButton"/>
+    <item type="id" name="mssgForumListView"/>
+    <item type="id" name="mssgComposeSendButton"/>
+    <item type="id" name="mssgComposeCancelButton"/>
+    <item type="id" name="mssgaction_bar_contacts_button"/>
+    <item type="id" name="mssgaction_bar_settings_button"/>
+    <item type="id" name="mssgaction_bar_map_button"/>
+    <item type="id" name="mssgaction_bar_map_settings"/>
+
+    <!-- Message Settings ids -->
+
+    <item type="id" name="mssgcheckboxincludesender_id"/>
+    <item type="id" name="mapcheckboxincludelatandlong_id" />
+    <item type="id" name="mapmaxnumberofhops_id"/>
+    <item type="id" name="lifeofmessage_id"/>
+
+    <!-- Proxie Settings ids -->
+
+    <item type="id" name="proxiestayloggedin_id"/>
+    <item type="id" name="proxierelaymessages_id"/>
+
+</resources>

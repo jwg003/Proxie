@@ -1,0 +1,25 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.john.proxie.MainActivities.MessageForumActivity">
+
+    <item android:id="@id/mssgaction_bar_map_button"
+        android:title="@string/actionbar_maps_button"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@id/mssgaction_bar_settings_button"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        />
+
+    <item
+        android:id="@id/mssgaction_bar_contacts_button"
+        android:title="@string/actionbar_contacts_button"
+        android:orderInCategory="100"
+        />
+
+</menu>

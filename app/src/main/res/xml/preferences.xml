@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="@string/preferencesreen_key">
+
+    <PreferenceCategory
+        android:title="@string/proxiesettingscategory">
+
+        <CheckBoxPreference
+            android:id="@id/proxiestayloggedin_id"
+            android:defaultValue="true"
+            android:key="@string/proxiestayloggedin_key"
+            android:title="@string/proxiestayloggedin_title"
+            />
+
+        <CheckBoxPreference
+            android:id="@id/proxierelaymessages_id"
+            android:key="@string/proxierelaymessages_key"
+            android:defaultValue="true"
+            android:title="@string/proxierelaymessages_title"
+            />
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+        android:title="@string/mappreferencecategory">
+
+        <CheckBoxPreference
+            android:id="@id/mapcheckboxdisplayproxie_id"
+            android:defaultValue="true"
+            android:key="@string/mapcheckboxdisplayproxie_key"
+            android:title="@string/mapcheckboxdisplayproxie_title"/>
+
+        <CheckBoxPreference
+            android:id="@id/mapcheckboxdisplaymessageloc_id"
+            android:defaultValue="true"
+            android:key="@string/mapcheckboxdisplaymessageloc_key"
+            android:title="@string/mapcheckboxdisplaymessageloc_title" />
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/mssgpreferencecategory">
+
+        <CheckBoxPreference
+            android:id="@id/mssgcheckboxincludesender_id"
+            android:defaultValue="true"
+            android:key="@string/mapcheckboxincludesender_key"
+            android:title="@string/mapcheckboxincludesender_title"/>
+
+        <CheckBoxPreference
+            android:id="@id/mapcheckboxincludelatandlong_id"
+            android:defaultValue="true"
+            android:key="@string/mapcheckboxincludelatandlong_key"
+            android:title="@string/mapcheckboxincludelatandlong_title"/>
+        <EditTextPreference
+            android:id="@id/mapmaxnumberofhops_id"
+            android:key="@string/mapmaxnumberofhops_key"
+            android:title="@string/mapmaxnumberofhops_title"/>
+        <EditTextPreference
+            android:id="@id/lifeofmessage_id"
+            android:key="@string/lifeofmessage_key"
+            android:title="@string/lifeofmessage_title"/>
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

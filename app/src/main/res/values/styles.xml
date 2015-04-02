@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Proxie" parent="@android:style/Theme.Holo.Light">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/Proxie.ActionBar</item>
+    </style>
+
+    <style name="Proxie.Titles" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="Proxie.ActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+
+        <item name="android:background">@color/blue_500</item>
+        <item name="android:height">50dp</item>
+        <!--<item name="android:icon">@drawable/proxie_logo</item> -->
+        <item name="android:titleTextStyle">@style/Proxie.Titles</item>
+
+    </style>
+
+    <style name="Proxie.ContactsActivity">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+    </style>
+
+
+</resources>

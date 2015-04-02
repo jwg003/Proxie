@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/John/Documents/AndroidSDKs/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/John/Dropbox/JuniorYearSpring/Android/Proxie/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-438fb99419a8bda3288f3e49d4f4bdf545cb0870.jar" />
+    </item>
+    <item
+        jar="/Users/John/Dropbox/JuniorYearSpring/Android/Proxie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/Users/John/Dropbox/JuniorYearSpring/Android/Proxie/app/build/intermediates/pre-dexed/debug/classes-deb588ca83f468f01a7c681192acea838d0cd872.jar" />
+    </item>
+    <item
+        jar="/Users/John/Dropbox/JuniorYearSpring/Android/Proxie/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/John/Dropbox/JuniorYearSpring/Android/Proxie/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-378f081d8ba4aec89a5d4be9ad01494d8a031bad.jar" />
+    </item>
+    <item
+        jar="/Users/John/Dropbox/JuniorYearSpring/Android/Proxie/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="/Users/John/Dropbox/JuniorYearSpring/Android/Proxie/app/build/intermediates/pre-dexed/debug/classes-1462d15dcf1880559c5da1936c98dd152d9fd965.jar" />
+    </item>
+    <item
+        jar="/Users/John/Dropbox/JuniorYearSpring/Android/Proxie/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/John/Dropbox/JuniorYearSpring/Android/Proxie/app/build/intermediates/pre-dexed/debug/classes-d3f72c2a21e90e1e3edd7630eeacf8c246a16072.jar" />
+    </item>
+    <item
+        jar="/Users/John/Dropbox/JuniorYearSpring/Android/Proxie/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/John/Dropbox/JuniorYearSpring/Android/Proxie/app/build/intermediates/pre-dexed/debug/classes-1e879579b1510ce91292bf5dd923a72ee1ce54d2.jar" />
+    </item>
+
+</items>
